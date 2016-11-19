@@ -1,6 +1,6 @@
-# API for Free SMS using Python
+# Using Free SMS API with Python
  A piece of code to send an SMS to your mobile phone using the Free SMS API service.
- This example use Urllib3, so it's work fine with Python 3.
+ This script use Urllib3, so it's work with Python 3.
 
 ## Why use Free API ?
 
@@ -23,4 +23,6 @@
 ### Things not so important
  
  The script has a conditional structure to perform actions based on how it sent the SMS. (If it was successfully sent (200) or with errors (400 < 500)). You can remove this part safely or add actions.
+ 
+ The examples proposed here are reusable in all projects, customizable and free. However, they might contain bugs, errors and others, be careful.
  
